@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+    align-items: center;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 29px;
+    padding: 20px 30px;
+    list-style: none;
+    font-size: 22px;
+}
+.btn-Order{
+    background-color: chocolate;
+    padding: 10px 30px;
+    border: none;
+    color: white;
+    font-size: 21px;
+    border-radius: 4px;
+}
+.btn-Sign{
+    background-color: white;
+    padding: 10px 30px;
+    border: 2px solid chocolate;
+    color: black;
+    font-size: 21px;
+    border-radius: 4px;
+}
+
+.navbar span{
+    color: chocolate;
+}
+.hero img{
+    width: 1040px;
+
+}
+.hero{
+    text-align: center;
+}
+.hero h1{
+    font-size: 80px;
+    margin-top: 30px;
+}
+.hero h2{
+    margin-left: -400px;
+}
+.date{
+    margin-left: -900px;
+    margin-bottom: 50px;
+}
+.blog img{
+    width: 250px;
+}
+.blog{
+    display: flex;
+    gap: 30px;
+    margin: 20px 100px;
+    border-top: 1px solid gray;
+    padding: 10px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+.footer p{
+    border-bottom: 2px solid white;
+    padding: 10px;
+}
+.alba{
+    padding: 15px;
+    margin-left: 550px;
+    margin-bottom: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+
+}
